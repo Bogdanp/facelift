@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "facelift",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Applies various style modifications to websites.",
   "content_scripts": [
     {
